@@ -20,7 +20,7 @@ analytics:
 author:
   name: Dennis Brockman
   email: dennis@brockmans.org
-  url: 'http://www.brockmans.org'
+  url: 'http://www.brockmans.org/rss.xml'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3e04a9-99c4-4d65-b3ad-97b01c278deb.png
 name: Brockmans
