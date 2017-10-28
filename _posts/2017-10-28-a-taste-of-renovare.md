@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-10-28T14:12:05.543Z'
+dateModified: '2017-10-28T15:22:45.468Z'
 via: {}
 description: >-
   My start date for Renovaré Institute for Spiritual Formation was August 1st.
@@ -13,11 +13,13 @@ description: >-
 title: A taste of Renovaré
 inFeed: true
 author: []
-datePublished: '2017-10-28T14:12:06.152Z'
+datePublished: '2017-10-28T15:22:46.103Z'
 sourcePath: _posts/2017-10-28-a-taste-of-renovare.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-10-28T12:21:28.547Z'
-_type: Blurb
+url: a-taste-of-renovare/index.html
+_type: Article
 
 ---
 # A taste of Renovaré
