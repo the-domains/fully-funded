@@ -12,6 +12,7 @@ color:
   lightness: 0.36903656644433147
   saturation: 0.8876855660812689
   rhythmicContrast: 0.6838488362132028
+github: true
 opengraph:
   appId: 'http://www.facebook.com/500019040'
 layout_spectrum: 0.04327690474984079
@@ -35,6 +36,9 @@ colors:
 navigation:
   - name: About Us
     id: efb2f6c6-1243-447f-b59e-1fceca264511
+    type: content
+  - name: Family on Mission
+    id: f0b92c0d-c6e2-4f38-9b4a-061125b44907
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7e7445-c425-4b2b-a3f3-9a0e00645303.png
@@ -69,4 +73,3 @@ purpose:
   - type: external
     url: 'http://give.cru.org/0258043'
     label: Be our Gospel Champion
-github: true
