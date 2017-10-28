@@ -1,20 +1,22 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The rumbling within me began this afternoon. Irritability encapsulated my
   heart, my mind and my body. In Renovation of the Heart, Dallas Willard paints
   the picture of all of these parts residing within our souls. It this is the
   case, then it’s accurate to say my soul feels like it’s been turned upside
   down and inside out.
-dateModified: '2017-10-28T14:12:05.543Z'
-datePublished: '2017-10-28T14:12:06.152Z'
+dateModified: '2017-10-28T18:26:26.013Z'
+datePublished: '2017-10-28T18:26:26.597Z'
 title: The Beautiful Ache
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-03-the-beautiful-ache.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-03T20:56:07.251Z'
+url: the-beautiful-ache/index.html
 _type: Blurb
 
 ---
