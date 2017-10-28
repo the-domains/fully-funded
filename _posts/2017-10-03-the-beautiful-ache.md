@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: "The rumbling within me began this afternoon. Irritability encapsulated my heart, my mind and my body. In\_Renovation of the Heart,\_Dallas Willard paints the picture of all of these parts residing within our souls. It this is the case, then it’s accurate to say my soul feels like it’s been turned upside down and inside out.\_"
-dateModified: '2017-10-28T12:28:48.234Z'
-datePublished: '2017-10-28T12:28:48.570Z'
+description: >-
+  The rumbling within me began this afternoon. Irritability encapsulated my
+  heart, my mind and my body. In Renovation of the Heart, Dallas Willard paints
+  the picture of all of these parts residing within our souls. It this is the
+  case, then it’s accurate to say my soul feels like it’s been turned upside
+  down and inside out.
+dateModified: '2017-10-28T12:36:15.461Z'
+datePublished: '2017-10-28T12:36:16.122Z'
 title: The Beautiful Ache
 author: []
 publisher: {}
@@ -14,11 +19,12 @@ _type: Blurb
 
 ---
 # The Beautiful Ache
+[Be our Gospel Champion][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb8d010-83fa-4693-a719-e2cb0226e1b9.jpg)
 
 ## The Mystery
 
-The rumbling within me began this afternoon. Irritability encapsulated my heart, my mind and my body. In Renovation of the Heart, Dallas Willard paints the picture of all of these parts residing within our souls. It this is the case, then it's accurate to say my soul feels like it's been turned upside down and inside out. 
+The rumbling within me began this afternoon. Irritability encapsulated my heart, my mind and my body. In Renovation of the Heart, Dallas Willard paints the picture of all of these parts residing within our souls. It this is the case, then it's accurate to say my soul feels like it's been turned upside down and inside out.
 
 It took me a few minutes to become aware of this rumbling. I was fine this morning and through the early afternoon. Then Dennis attempted to be playful...and I wasn't playing. That was my first clue all was not at rest. As I grilled the burgers and sat through dinner, I felt a restlessness within.
 
@@ -42,6 +48,9 @@ My _with _God says He knows what it's like to release His Son. He knows. All thi
 
 And my _with_ God says His grace is expansive enough to hold my dear neighbor who just shared she has breast cancer. It was only two years ago her young granddaughter was in the fight for her life with a brain tumor. And He was _with _them and held them there, in that deep place of ache of a completely different kind. And now He will be _with_ Joanne as she battles for her own life. All these aches...some good and some brutal. Each one an opportunity to be more deeply entered by our _with God._
 
-His is an unusual kind of love. Perhaps this ache will expand me to hold more of this love, more of Him so I have more of His love to pour into others. 
+His is an unusual kind of love. Perhaps this ache will expand me to hold more of this love, more of Him so I have more of His love to pour into others.
 
 I miss you already, my Keegan. Yet in the same breath, It fills me to see you open your expansive wings and soar.
+[Be our Gospel Champion][0]
+
+[0]: https://give.cru.org/0258043
