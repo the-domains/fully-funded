@@ -5,8 +5,8 @@ description: >-
   seat. Caught between horror and fear, you tensed for the next victim. If I
   played the unmistakable tune, you’d likely know it instantly--the 1975
   thriller, Jaws.
-dateModified: '2017-10-28T12:34:07.457Z'
-datePublished: '2017-10-28T12:34:07.841Z'
+dateModified: '2017-10-28T12:41:00.916Z'
+datePublished: '2017-10-28T12:41:01.387Z'
 title: What it feels like
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/50d06329b8d5d6be46a308c7c94c6b26/croprotate.jpg?cropheight=498&cropwidth=400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d80910c-2e06-482e-9b97-be2549c19b49.jpg&x=0&y=1)
 
-## **What it feels like**
+# **What it feels like**
 [Be our Gospel Champion][0]
 
 The [music score][1] brought on an intensity that moved you to the edge of your seat. Caught between horror and fear, you tensed for the next victim. If I played the unmistakable tune, you'd likely know it instantly--the 1975 thriller, Jaws.
