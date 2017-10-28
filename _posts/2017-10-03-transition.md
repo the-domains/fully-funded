@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T12:35:11.699Z'
-dateModified: '2017-10-28T12:35:11.213Z'
+datePublished: '2017-10-28T14:12:06.155Z'
+dateModified: '2017-10-28T14:12:05.543Z'
 description: >-
   It was through Storytelling that Jesus penetrated souls. It was through
   storytelling that he turned the world of the Pharisees upside down. It was
