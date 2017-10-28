@@ -12,8 +12,8 @@ description: >-
   down. There are roof shingles here and there, but the damage is mild given the
   destruction others have experienced from Irma. Here are some photos from
   around our house.
-dateModified: '2017-10-28T12:21:57.475Z'
-datePublished: '2017-10-28T12:21:57.796Z'
+dateModified: '2017-10-28T12:28:48.234Z'
+datePublished: '2017-10-28T12:28:48.560Z'
 title: Life After Irma
 author: []
 publisher: {}
