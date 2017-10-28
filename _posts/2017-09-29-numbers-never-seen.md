@@ -7,8 +7,8 @@ description: >-
   through professional skill training to develop our crafts in telling God's
   stories. Since then we hosted five gatherings in Orlando, and I met Jesse for
   the first time in one of those.
-dateModified: '2017-10-28T14:28:27.572Z'
-datePublished: '2017-10-28T14:28:27.688Z'
+dateModified: '2017-10-28T16:23:36.193Z'
+datePublished: '2017-10-28T16:23:36.367Z'
 title: 'Are we growing? These numbers say, “Yes!”!'
 author:
   - name: Jesse Rogers
@@ -23,8 +23,8 @@ via: {}
 isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQQNGrkDlA0Wi7MKXGpRdo3BaYChGKGYZMvL2NLv_m_TGutGRUEj0HA_1wABUwPgMbOB17UJWcgcD8rhetRaT7lMbNYudK1pgtev24nWe-z5iH15UwmZ34obaQRzKw95JSkbWlVB0hbtOo_9_pC7peK5s
 sourcePath: _posts/2017-09-29-numbers-never-seen.md
+datePublishedOriginal: '2017-10-28T16:23:36.367Z'
 starred: false
-datePublishedOriginal: '2017-09-29T18:55:45.926Z'
 _type: MediaObject
 
 ---
