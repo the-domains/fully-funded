@@ -1,18 +1,18 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T14:12:06.165Z'
-dateModified: '2017-10-28T14:12:05.543Z'
+datePublished: '2017-10-28T18:25:53.228Z'
+dateModified: '2017-10-28T18:25:52.907Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
 title: Something about us
 hasPage: true
-inFeed: true
+inFeed: false
 author: []
 starred: false
 datePublishedOriginal: '2017-10-03T18:41:57.097Z'
 url: something-about-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836cf4ab-99f0-47ee-9923-2839037f6c97.jpg)
