@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-10-28T15:22:45.468Z'
+dateModified: '2017-10-28T18:27:24.046Z'
 via: {}
 description: >-
   My start date for Renovaré Institute for Spiritual Formation was August 1st.
@@ -11,15 +11,15 @@ description: >-
   streams, solid theological learning with opportunities to encounter the
   biblical Jesus.
 title: A taste of Renovaré
-inFeed: true
+inFeed: false
 author: []
-datePublished: '2017-10-28T15:22:46.103Z'
+datePublished: '2017-10-28T18:27:24.591Z'
 sourcePath: _posts/2017-10-28-a-taste-of-renovare.md
 hasPage: true
 starred: true
 datePublishedOriginal: '2017-10-28T12:21:28.547Z'
 url: a-taste-of-renovare/index.html
-_type: Article
+_type: Blurb
 
 ---
 # A taste of Renovaré
