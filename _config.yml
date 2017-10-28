@@ -34,7 +34,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About Us
+  - name: About us
     id: efb2f6c6-1243-447f-b59e-1fceca264511
     type: content
   - name: Family on mission
