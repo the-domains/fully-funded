@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Some call them Millennials. Others the I-Gen. Born between 1982 – 2004. Here’s
   one description of them...
-dateModified: '2017-10-28T12:28:48.234Z'
-datePublished: '2017-10-28T12:28:48.564Z'
+dateModified: '2017-10-28T12:31:01.686Z'
+datePublished: '2017-10-28T12:31:02.222Z'
 title: Making Digital Disciples
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Article
 
 ---
 # Making Digital Disciples
+[Be our Gospel Champion][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d1d0c4-6969-4254-a0a8-918ad6d2838a.jpg)
 
 Some call them Millennials. Others the I-Gen. Born between 1982 -- 2004\. Here's one description of them...
@@ -27,14 +28,16 @@ Some call them Millennials. Others the I-Gen. Born between 1982 -- 2004\. Here's
 Many Millennials are technically-gifted and enmeshed in a world of computer languages like Python, Swift, HTML5, Java, etc. They are responsible for our devices serving us terabytes of entertainment, news, remote control services, home automation, and more. Many of them follow Jesus, and would love to use their interests and skills to reach others for Jesus Christ.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e4648ef-7f58-46b5-a0ce-c9cf7dbbc46e.png)
 
-We have a ministry designed to engage followers of Christ and future Christians called [Indigitous][0]. [Indigitous][0] is a global community engaging with ideas and each other to advance God's Kingdom through technical innovation.
+We have a ministry designed to engage followers of Christ and future Christians called [Indigitous][1]. [Indigitous][1] is a global community engaging with ideas and each other to advance God's Kingdom through technical innovation.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa1bb26-06b1-489f-8b5a-37d9a08d7642.jpg)
 
-One Indigitous strategy is to host hackathons. From October 20-22, we will have the privilege of hosting our second [Global Missional Hackathon called Indigitous \#HACK!][1] 2500+ missional hackers are gathering in 38+ cities around the world, developing digital disciplers who will work on missional projects.
+One Indigitous strategy is to host hackathons. From October 20-22, we will have the privilege of hosting our second [Global Missional Hackathon called Indigitous \#HACK!][2] 2500+ missional hackers are gathering in 38+ cities around the world, developing digital disciplers who will work on missional projects.
 
 Through your support of Lisa and me, you are helping to launch thousands of digital disciples whose heart is to help fulfill the Great Commission using their tech-genius skills.
 
-P.S. If you know someone that could, would, should come to the \#HACK, let them know about it. Send them the poster above and or send them this url [https://indigitous.org/hack/][1].
+P.S. If you know someone that could, would, should come to the \#HACK, let them know about it. Send them the poster above and or send them this url [https://indigitous.org/hack/][2].
+[Be our Gospel Champion][0]
 
-[0]: https://indigitous.org/
-[1]: https://indigitous.org/hack/
+[0]: https://give.cru.org/0258043
+[1]: https://indigitous.org/
+[2]: https://indigitous.org/hack/
