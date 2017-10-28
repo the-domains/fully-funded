@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T12:28:48.572Z'
-dateModified: '2017-10-28T12:28:48.234Z'
+datePublished: '2017-10-28T12:37:23.996Z'
+dateModified: '2017-10-28T12:37:23.568Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -18,6 +18,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836cf4ab-99f0-47ee-9923-2839037f6c97.jpg)
 
 # Something about us
+[Be our Gospel Champion][0]
 
 We are so glad you clicked on over. Here's a small window into who we are...
 
@@ -46,4 +47,4 @@ The summer of 2018 marks my 35-year anniversary as a Cru staff member. I am pass
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee7cdf4-9d70-4d04-94ae-e8c457859941.jpg)
 [Gospel Champion unite][0]
 
-[0]: give.cru.org/0258043
+[0]: https://give.cru.org/0258043
