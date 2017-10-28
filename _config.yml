@@ -46,9 +46,6 @@ navigation:
   - name: We survived Irma
     id: a2189c1b-40c3-494d-802b-515b363324f1
     type: content
-  - name: Irma is coming and it feels...
-    id: 524ebd82-03fe-45fc-af9a-be368739d76d
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7e7445-c425-4b2b-a3f3-9a0e00645303.png
 title: Brockmans
