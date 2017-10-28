@@ -7,9 +7,9 @@ description: >-
   through professional skill training to develop our crafts in telling God's
   stories. Since then we hosted five gatherings in Orlando, and I met Jesse for
   the first time in one of those.
-dateModified: '2017-10-28T14:18:55.190Z'
-datePublished: '2017-10-28T14:18:55.787Z'
-title: Are we growing? Yes!
+dateModified: '2017-10-28T14:19:23.726Z'
+datePublished: '2017-10-28T14:19:24.071Z'
+title: 'Are we growing? These numbers say, “Yes!”!'
 author:
   - name: Jesse Rogers
     url: 'https://www.youtube.com/user/JRoManDrummer'
@@ -28,7 +28,7 @@ datePublishedOriginal: '2017-09-29T18:55:45.926Z'
 _type: MediaObject
 
 ---
-# Are we growing? Yes!
+# Are we growing? These numbers say, "Yes!"!
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FXA4VtIVem6k%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXA4VtIVem6k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXA4VtIVem6k%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
