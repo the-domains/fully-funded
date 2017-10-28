@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Some call them Millennials. Others the I-Gen. Born between 1982 – 2004. Here’s
   one description of them...
-dateModified: '2017-10-28T14:12:05.543Z'
-datePublished: '2017-10-28T14:12:06.146Z'
+dateModified: '2017-10-28T15:24:41.726Z'
+datePublished: '2017-10-28T15:24:42.267Z'
 title: Making Digital Disciples
 author: []
 publisher: {}
