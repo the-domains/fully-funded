@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T14:00:13.662Z'
-dateModified: '2017-10-28T14:00:12.574Z'
+datePublished: '2017-10-28T14:01:56.977Z'
+dateModified: '2017-10-28T14:01:56.356Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -34,7 +34,7 @@ I'm most alive when I'm journeying with others on their road of personal transfo
 
 The summer of 2017 marked my 25-year anniversary as a Cru staff member. I currently serve with the Digital Strategies team in the area of Spiritual Formation.
 
-I am in a graduate studies two-year program I began in August 2017 called Renovare Institute for Spiritual Formation.
+I am in a graduate studies two-year program I began in August 2017 called [Renovare Institute for Spiritual Formation][2].
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyShSKM6sSrVVMjRQsgMAIgYEEg" height="10" style=""></iframe>
 
@@ -53,3 +53,4 @@ The summer of 2018 marks my 35-year anniversary as a Cru staff member. I am pass
 
 [0]: https://give.cru.org/0258043
 [1]: http://www.newwayministries.org/ "New Way Ministries"
+[2]: https://renovare.org/institute/overview "Renovare Institute"
