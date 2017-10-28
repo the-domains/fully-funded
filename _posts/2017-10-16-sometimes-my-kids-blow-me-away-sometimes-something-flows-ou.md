@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T12:21:57.796Z'
-dateModified: '2017-10-28T12:21:57.475Z'
+datePublished: '2017-10-28T12:24:36.549Z'
+dateModified: '2017-10-28T12:24:36.077Z'
 via: {}
 description: >-
   Sometimes my kids blow me away. Sometimes something flows out of them that is
@@ -19,6 +19,7 @@ _type: Blurb
 
 ---
 # Cru at Palm Beach Atlantic University
+[Be our Gospel Champion][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ad7c9e-4000-48cb-af1e-882ae76fa4d6.jpg)
 
 Sometimes my kids blow me away. Sometimes something flows out of them that is so beautiful and out-of-their-gift mix that I just sit back in awe at what I'm seeing. That something supernatural is leading them. This is one of those kind of stories.
@@ -52,3 +53,6 @@ I've told my daughter throughout her life that God's Spirit, who lives in her, i
 ## Invited
 
 She'd be delighted to have you join her in prayer for Cru at PBA, and the students who are drawn to drink more deeply of Jesus' living water during their college experience.
+[Be our Gospel Champion][0]
+
+[0]: https://give.cru.org/0258043
