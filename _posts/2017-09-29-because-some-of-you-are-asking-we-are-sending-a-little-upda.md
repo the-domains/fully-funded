@@ -12,8 +12,8 @@ description: >-
   down. There are roof shingles here and there, but the damage is mild given the
   destruction others have experienced from Irma. Here are some photos from
   around our house.
-dateModified: '2017-10-28T12:28:48.234Z'
-datePublished: '2017-10-28T12:28:48.560Z'
+dateModified: '2017-10-28T12:33:05.528Z'
+datePublished: '2017-10-28T12:33:06.106Z'
 title: Life After Irma
 author: []
 publisher: {}
@@ -28,6 +28,7 @@ _type: Article
 
 ---
 # Life After Irma
+[Be our Gospel Champion][0]
 
 Because some of you are asking, we are sending a little update from O-town. We fared well through the storm. The climax of Irma began around six last night and continued through the evening with continuous tornado warnings, one of which passed right over us. These created some tension within us. The wind howled, belting trees in every direction and rain pummeled the earth as we drifted to sleep, hoping and praying for protection from these forces of nature. We awoke to light winds and sun peeking through this morning. Thankfully, we fared well as did our neighborhood. Some trees and fences are down. There are roof shingles here and there, but the damage is mild given the destruction others have experienced from Irma. Here are some photos from around our house.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/257da3d9-474e-4204-aa56-503fffb135dd.jpg)
@@ -59,3 +60,6 @@ We are grateful for your prayers and that God is a protector. Had the damage bee
 As Keegs and Dennis walked around the neighborhood this morning to survey the damage, a police officer told them Orlando is under a curfew until 6 pm and to go home. Glad there's only one day more we are under a curfew, and we enjoy so much freedom in America.
 
 Thank you again, for your thoughts and prayers. Our Father generously answered.
+[Be our Gospel Champion][0]
+
+[0]: https://give.cru.org/0258043
