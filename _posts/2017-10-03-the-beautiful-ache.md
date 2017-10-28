@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "The rumbling within me began this afternoon. Irritability encapsulated my heart, my mind and my body. In\_Renovation of the Heart,\_Dallas Willard paints the picture of all of these parts residing within our souls. It this is the case, then it’s accurate to say my soul feels like it’s been turned upside down and inside out.\_"
-dateModified: '2017-10-28T12:21:57.475Z'
-datePublished: '2017-10-28T12:21:57.767Z'
+dateModified: '2017-10-28T12:28:48.234Z'
+datePublished: '2017-10-28T12:28:48.570Z'
 title: The Beautiful Ache
 author: []
 publisher: {}
