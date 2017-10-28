@@ -6,8 +6,8 @@ description: >-
   the picture of all of these parts residing within our souls. It this is the
   case, then it’s accurate to say my soul feels like it’s been turned upside
   down and inside out.
-dateModified: '2017-10-28T12:36:15.461Z'
-datePublished: '2017-10-28T12:36:16.122Z'
+dateModified: '2017-10-28T14:12:05.543Z'
+datePublished: '2017-10-28T14:12:06.152Z'
 title: The Beautiful Ache
 author: []
 publisher: {}
