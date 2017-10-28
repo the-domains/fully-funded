@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-10-28T12:21:57.475Z'
+dateModified: '2017-10-28T12:28:25.680Z'
 via: {}
 description: >-
   My start date for Renovare Institute for Spiritual Formation was August 1st.
@@ -13,7 +13,7 @@ description: >-
 title: A taste of Renovaré
 inFeed: true
 author: []
-datePublished: '2017-10-28T12:21:57.757Z'
+datePublished: '2017-10-28T12:28:26.222Z'
 sourcePath: _posts/2017-10-28-a-taste-of-renovare.md
 starred: true
 datePublishedOriginal: '2017-10-28T12:21:28.547Z'
@@ -21,6 +21,7 @@ _type: Blurb
 
 ---
 # A taste of Renovaré
+[Be our Gospel Champion][0]
 
 My start date for Renovare Institute for Spiritual Formation was August 1st. Each month we are answering a theological question as well as meditating on a particular passage from the Bible. We are in a learning environment which values the importance of possessing good theology while knowing that it requires encountering God to change us. Thus, the curriculum has those two streams, solid theological learning with opportunities to encounter the biblical Jesus.
 
@@ -50,3 +51,6 @@ Throughout my coursework thus far, my vision of God is expanding, I am tasting H
 Finally, being surrounded by a learning community of people with a shared desire to know God, love Him well, live well, and pour His love into others was the richest of fare. For those of you who have given so that I may so richly receive, know that you were there with me in thought throughout the week. Gratitude for you is bursting forth.
 
 PS. I'll elaborate on the above topics and in more detail in future posts.
+[Be our Gospel Champion][0]
+
+[0]: https://give.cru.org/0258043
