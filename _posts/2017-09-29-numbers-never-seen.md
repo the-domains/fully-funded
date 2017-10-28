@@ -7,8 +7,8 @@ description: >-
   through professional skill training to develop our crafts in telling God's
   stories. Since then we hosted five gatherings in Orlando, and I met Jesse for
   the first time in one of those.
-dateModified: '2017-10-28T12:21:57.475Z'
-datePublished: '2017-10-28T12:21:57.750Z'
+dateModified: '2017-10-28T12:28:48.234Z'
+datePublished: '2017-10-28T12:28:48.565Z'
 title: Numbers never seen
 author:
   - name: Jesse Rogers
