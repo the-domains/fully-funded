@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T14:12:06.157Z'
-dateModified: '2017-10-28T14:12:05.543Z'
+datePublished: '2017-10-28T16:21:44.778Z'
+dateModified: '2017-10-28T16:21:44.274Z'
 via: {}
 description: >-
   Sometimes my kids blow me away. Sometimes something flows out of them that is
@@ -11,10 +11,12 @@ description: >-
 title: Cru at Palm Beach Atlantic University
 sourcePath: >-
   _posts/2017-10-16-sometimes-my-kids-blow-me-away-sometimes-something-flows-ou.md
-inFeed: true
+inFeed: false
 author: []
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-16T01:21:22.494Z'
+url: cru-at-palm-beach-atlantic-university/index.html
 _type: Blurb
 
 ---
