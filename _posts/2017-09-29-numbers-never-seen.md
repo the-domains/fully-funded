@@ -7,8 +7,8 @@ description: >-
   through professional skill training to develop our crafts in telling God's
   stories. Since then we hosted five gatherings in Orlando, and I met Jesse for
   the first time in one of those.
-dateModified: '2017-10-28T14:15:29.689Z'
-datePublished: '2017-10-28T14:15:30.306Z'
+dateModified: '2017-10-28T14:18:55.190Z'
+datePublished: '2017-10-28T14:18:55.787Z'
 title: Are we growing? Yes!
 author:
   - name: Jesse Rogers
