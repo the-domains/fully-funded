@@ -37,11 +37,11 @@ navigation:
   - name: About us
     id: efb2f6c6-1243-447f-b59e-1fceca264511
     type: content
-  - name: Family on mission
-    id: f0b92c0d-c6e2-4f38-9b4a-061125b44907
-    type: content
   - name: Because of you...
     id: 3b6af503-6ce5-448d-9396-6fc066a67a51
+    type: content
+  - name: Family on mission
+    id: f0b92c0d-c6e2-4f38-9b4a-061125b44907
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
