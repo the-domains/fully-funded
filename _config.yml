@@ -43,6 +43,9 @@ navigation:
   - name: Family on mission
     id: f0b92c0d-c6e2-4f38-9b4a-061125b44907
     type: content
+  - name: Home
+    url: 'https://brockmans.org'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
