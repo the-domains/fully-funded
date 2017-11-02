@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-28T18:25:53.228Z'
-dateModified: '2017-10-28T18:25:52.907Z'
+datePublished: '2017-11-02T00:19:29.084Z'
+dateModified: '2017-11-02T00:19:28.553Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
