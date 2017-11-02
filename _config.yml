@@ -34,9 +34,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Home
-    url: 'https://brockmans.org'
-    type: external
   - name: About us
     id: efb2f6c6-1243-447f-b59e-1fceca264511
     type: content
