@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-02T00:34:01.284Z'
-datePublished: '2017-11-02T00:34:01.725Z'
+dateModified: '2017-11-02T01:37:20.487Z'
+datePublished: '2017-11-02T01:37:21.002Z'
 title: >-
   God, us, marriage, family, friends, and mission. Here are some stories that
   make up our lives.
@@ -22,3 +22,6 @@ _type: Blurb
 ### There are two places for stories. If you extend your ministry through us, we hope the stories under "**Because of you ..."** will beckon you. Why? Because of you of course.
 
 ### If you dig us, and we hope you do, then "**Family on mission"** will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
+[Be our gospel champion][0]
+
+[0]: https://give.cru.org/0258043
