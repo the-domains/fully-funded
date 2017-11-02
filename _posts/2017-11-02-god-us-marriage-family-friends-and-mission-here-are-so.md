@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-02T00:19:15.133Z'
-datePublished: '2017-11-02T00:19:15.465Z'
+dateModified: '2017-11-02T00:19:28.553Z'
+datePublished: '2017-11-02T00:19:29.084Z'
 title: >-
   God, us, marriage, family, friends, and mission. Here are some stories that
   make up our lives. There are two places for stories. If you extend your
