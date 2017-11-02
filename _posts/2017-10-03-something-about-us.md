@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-02T00:19:29.084Z'
-dateModified: '2017-11-02T00:19:28.553Z'
+datePublished: '2017-11-02T18:53:38.335Z'
+dateModified: '2017-11-02T18:53:37.914Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -26,7 +26,7 @@ We are so glad you clicked on over. Here's a small window into who we are...
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81b1bd93-f190-4d63-8f00-38079fbc7f41.jpg)
 
-## I bit about Lisa
+## A bit about Lisa
 
 I am a mom to five mostly fabulous kids ranging from 13-21 years of age. For 13 of my 21 years of parenting, I was privileged to home educate our kids, some hours with much joy and delight...others through gnashing of teeth. We bathed together in the deep waters of spiritual formation. I think especially me. That was fertile ground for the passion God has deposited within me for spiritual formation.
 
