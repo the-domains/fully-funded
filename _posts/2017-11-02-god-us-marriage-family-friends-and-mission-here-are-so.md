@@ -1,10 +1,12 @@
 ---
 publisher: {}
-datePublished: '2017-11-13T15:34:29.229Z'
-dateModified: '2017-11-13T15:33:54.939Z'
+datePublished: '2017-11-13T15:37:02.336Z'
+dateModified: '2017-11-13T15:35:25.270Z'
 via: {}
 description: ''
-title: Partnering with Gospel Champions to expand God’s Kingdom
+title: >-
+  God, us, marriage, family, friends, and mission. Here are some stories that
+  make up our lives.
 sourcePath: _posts/2017-11-02-god-us-marriage-family-friends-and-mission-here-are-so.md
 inFeed: true
 author: []
@@ -14,8 +16,6 @@ _type: Blurb
 
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2b8ca12e19c8d09c2371d9131b758c81/croprotate.jpg?cropheight=5902&cropwidth=9842&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0576e105-aae5-4d44-a3d8-b0533c33aa42.jpg&x=0&y=0)
-
-## **Partnering with Gospel Champions to expand God's Kingdom**
 
 ### God, us, marriage, family, friends, and mission. Here are some stories that make up our lives.
 
