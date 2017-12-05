@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-05T15:51:52.361Z'
-dateModified: '2017-12-05T15:51:51.978Z'
+datePublished: '2017-12-05T16:47:39.139Z'
+dateModified: '2017-12-05T16:47:38.626Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -41,7 +41,6 @@ I am in a graduate studies two-year program I began in August 2017 called [Renov
 ## A bit about Dennis
 
 I am a dad to five lively kids who keep me active on athletic sidelines, and are wonderful objects of interest for my photography hobby. Parenting them is a gift and as they grow into young adulthood, relating with them grows even richer.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76d2646-8993-4180-8351-ac3abd4453a0.jpg)
 
 The summer of 2018 marks my 35-year anniversary as a Cru staff member. I am passionate about the spiritual life and co-journeying with others who share the desire to know God intimately. I'm also passionate about how Christ is presented to the world, for how He's presented often determines whether or not one opens the door to listen to the transforming message of Christ. It is my privilege to serve on our Global Digital Strategy team on which I focus on marketing our Cru message and give attentiveness to how we are experienced as messengers.
 
