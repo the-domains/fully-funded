@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-14T03:57:45.636Z'
-dateModified: '2017-11-14T03:57:45.180Z'
+datePublished: '2017-12-05T15:40:38.811Z'
+dateModified: '2017-12-05T15:40:38.006Z'
 via: {}
 description: ''
 title: >-
@@ -22,6 +22,6 @@ _type: Blurb
 ### There are two places for stories. If you extend your ministry through us, we hope the stories under "**Because of you ..."** will beckon you. Why? Because of **You**, of course.
 
 ### If you dig us, and we hope you do, then "**Lisa's blog"** will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
-[Give to be our gospel champion][0]
+[Give to make disciples][0]
 
 [0]: https://give.cru.org/0258043
