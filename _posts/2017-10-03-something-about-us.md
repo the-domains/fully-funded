@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-13T16:24:03.358Z'
-dateModified: '2017-11-13T16:24:03.004Z'
+datePublished: '2017-12-05T15:40:03.104Z'
+dateModified: '2017-12-05T15:40:02.560Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -48,7 +48,7 @@ The summer of 2018 marks my 35-year anniversary as a Cru staff member. I am pass
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyShSKM6sSrVVMjRQsgMAIgYEEg" height="10" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee7cdf4-9d70-4d04-94ae-e8c457859941.jpg)
-[Give to be our Gospel Champion][2]
+[Give to make disciples][2]
 
 [0]: http://www.newwayministries.org/ "New Way Ministries"
 [1]: https://renovare.org/institute/overview "Renovare Institute"
