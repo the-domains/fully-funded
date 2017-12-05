@@ -46,31 +46,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b77adb98-b05a-4b01-8980-3c78658d179f.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b77adb98-b05a-4b01-8980-3c78658d179f.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Uniting with Gospel Champions to make disciples of Jesus Christ.
 purpose:
   - type: external
