@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-05T16:47:39.139Z'
-dateModified: '2017-12-05T16:47:38.626Z'
+datePublished: '2018-01-08T21:25:49.020Z'
+dateModified: '2018-01-08T21:25:48.364Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -26,9 +26,9 @@ We are so glad you clicked on over. Here's a small window into who we are...
 
 ## A bit about Lisa
 
-I am a mom to five mostly fabulous kids ranging from 13-21 years of age. For 13 of my 21 years of parenting, I was privileged to home educate our kids, some hours with much joy and delight...others through gnashing of teeth. We bathed together in the deep waters of spiritual formation. I think especially me. That was fertile ground for the passion God has deposited within me for spiritual formation.
+I am a mom to five mostly fabulous kids ranging from 13-22 years of age. For 13 of my 22 years of parenting, I was privileged to home educate our kids, some hours with much joy and delight...others through gnashing of teeth. We bathed together in the deep waters of spiritual formation. I think especially me. That was fertile ground for the passion God has deposited within me for spiritual formation.
 
-I'm most alive when I'm journeying with others on their road of personal transformation as well as when others join me in mine. Thirteen years ago, I participated in my first School of Spiritual Direction through Larry Crabb's [New Way Ministries][0] as a personal development pursuit. That week rocked my world in the best way. I caught a vision of God, myself, and others I'd never seen before, and a passion grew within me to share this vision and walk alongside others in their spiritual journeys. I acquired my Spiritual Direction certificate in the summer of 2016, and find incredible joy in journeying with Cru staff into the heart of God.
+I'm most alive when I'm journeying with others on their road of personal transformation as well as when others join me in mine. Fourteen years ago, I participated in my first School of Spiritual Direction through Larry Crabb's [New Way Ministries][0] as a personal development pursuit. That week rocked my world in the best way. I caught a vision of God, myself, and others I'd never seen before, and a passion grew within me to share this vision and walk alongside others in their spiritual journeys. I acquired my Spiritual Direction certificate in the summer of 2016, and find incredible joy in journeying with Cru staff into the heart of God.
 
 The summer of 2017 marked my 25-year anniversary as a Cru staff member. I currently serve with the Digital Strategies team in the area of Spiritual Formation.
 
