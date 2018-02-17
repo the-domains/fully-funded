@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T11:54:40.338Z'
-dateModified: '2018-02-17T11:54:39.813Z'
+datePublished: '2018-02-17T11:56:25.394Z'
+dateModified: '2018-02-17T11:56:24.970Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -24,7 +24,7 @@ We are so glad you clicked on over. Here's a small window into who we are...
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1955f139-309c-4a67-a34e-ea6bf0dbee0c.jpg)
 
-## A bit about Lisa
+## Meet Lisa
 
 I am a mom to **five mostly fabulous kids** ranging from 14-22 years of age. For 13 of my 22 years of parenting, I was privileged to home educate our kids, some hours with much joy and delight...others through gnashing of teeth. We bathed together in the deep waters of spiritual formation. I think especially me. That was fertile ground for the passion God has deposited within me for spiritual formation.
 
@@ -38,7 +38,7 @@ I am in a **graduate studies** two-year program I began in August 2017 called [R
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9620b25b-0710-4a12-92d3-7a180471ddf7.jpg)
 
-## A bit about Dennis
+## Meet Dennis
 
 I am a dad to **five lively kids** who keep me active on athletic sidelines, and are wonderful objects of interest for my **photography** hobby. Parenting them is a gift and as they grow into young adulthood, relating with them grows even richer.
 
