@@ -34,15 +34,15 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Because of you... (mission briefs)
+    url: 'https://thegrid.ai/mission-59281'
+    type: external
   - name: Lisa's blog (family & formation)
     url: 'https://thegrid.ai/family-82471'
     type: external
   - name: About us
     id: efb2f6c6-1243-447f-b59e-1fceca264511
     type: content
-  - name: Because of you... (mission briefs)
-    url: 'https://thegrid.ai/mission-59281'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
