@@ -34,12 +34,12 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About us
-    id: efb2f6c6-1243-447f-b59e-1fceca264511
-    type: content
   - name: Lisa's blog (family & formation)
     url: 'https://thegrid.ai/family-82471'
     type: external
+  - name: About us
+    id: efb2f6c6-1243-447f-b59e-1fceca264511
+    type: content
   - name: Because of you... (mission briefs)
     url: 'https://thegrid.ai/mission-59281'
     type: external
