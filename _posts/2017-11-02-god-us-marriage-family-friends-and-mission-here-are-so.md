@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T11:35:59.518Z'
-dateModified: '2018-02-17T11:35:59.095Z'
+datePublished: '2018-04-09T17:09:07.259Z'
+dateModified: '2018-04-09T17:09:06.819Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -18,6 +18,6 @@ _type: Blurb
 ### There are two places for stories on this site. If you extend your ministry through us, we hope the stories under the menu "**Because of you ..."** will beckon you. Why? Because of **You**, of course.
 
 ### If you dig us, and we hope you do, then click on "**Lisa's blog" **on the menu and that will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
-[Give to make disciples][0]
+[Give a gift to make disciples][0]
 
 [0]: https://give.cru.org/0258043
