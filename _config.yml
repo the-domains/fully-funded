@@ -88,7 +88,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -96,7 +95,10 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Uniting with Gospel Champions to make disciples of Jesus Christ.
+description: >-
+  People are designed to flourish, and yet many languish. We join others
+  journeys long to thrive and if trusted, guide them to the person of Jesus
+  Christ. 
 purpose:
   - type: external
     url: 'http://give.cru.org/0258043'
