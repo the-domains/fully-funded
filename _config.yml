@@ -48,7 +48,80 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZK3-NsqpZWs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZK3-NsqpZWs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZK3-NsqpZWs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen="true"></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Cru
+          url: 'https://www.youtube.com/user/cruglobal'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      keywords:
+        - community (website category)
+        - cru (nonprofit organization)
+        - relationship
+        - christianity (religion)
+      description: >-
+        What happens when someone connects to a Cru community anywhere in the
+        world? Just watch and see.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
+          namespace: ai
+          type: ios
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
+          namespace: ai
+          type: android
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
+          namespace: ai
+          type: web
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
+          type: ipad
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
+          type: iphone
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=ZK3-NsqpZWs'
+          type: googleplay
+          namespace: twitter
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=ZK3-NsqpZWs
+          type: android
+          namespace: google
+          package: com.google.android.youtube
+        - path: vnd.youtube/www.youtube.com/watch?v=ZK3-NsqpZWs
+          type: ios
+          namespace: google
+          package: '544007664'
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/ZK3-NsqpZWs'
+      title: What is community to Cru?
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   We come alongside people in the highs and lows in their spiritual journeys and
   offer them next steps in knowing and growing in Jesus.
