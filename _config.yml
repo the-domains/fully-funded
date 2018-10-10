@@ -1,16 +1,18 @@
-layout_spectrum: 0.048758251774263114
-typography_spectrum: 0.25833726035301935
+layout_spectrum: 0.04584671613160927
+typography_spectrum: 0.2326963605605398
 color:
   brandColors:
-    - '#694264'
-    - '#C4C5C0'
-    - '#E7E3E1'
-    - '#B58BAB'
-    - '#CDA673'
-  brandStrength: 0.31856253534260365
-  lightness: 0.5622810096621956
-  saturation: 0.8595447265257192
-  rhythmicContrast: 0.22682616504231967
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.009847342610672707
+  lightness: 0.0579904694299186
+  saturation: 0.9048272432413617
+  rhythmicContrast: 0.7555134209463059
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
 github: true
@@ -46,31 +48,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/958b9134-d53e-478d-9298-1546869be0d7.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/958b9134-d53e-478d-9298-1546869be0d7.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: >-
   We come alongside people in the highs and lows in their spiritual journeys and
   offer them next steps in knowing and growing in Jesus.
