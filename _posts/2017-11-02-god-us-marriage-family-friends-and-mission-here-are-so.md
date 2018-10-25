@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-10-25T02:16:40.402Z'
-dateModified: '2018-10-25T02:16:39.572Z'
+datePublished: '2018-10-25T02:17:58.437Z'
+dateModified: '2018-10-25T02:17:57.705Z'
 via: {}
 description: Consider becoming our Gospel Champion
 title: We are glad you are here.
@@ -24,7 +24,7 @@ _type: MediaObject
 
 Consider becoming our Gospel Champion
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFkMFOwzAQRH_FWolj4rRpKari8AWIHHpHG9tN3DqNZW9LwtezEJAQB9jjamf2zVRJRxdIOKMAU8js0FqTLUsQBgmzN3cxdlKwKj4HBM3BKiA7kTzhDb-PdY8xWVJwpWP2ACJFraAnCmkvZQoYzzmasbW5HgcZsLPLs_yUoK7k4lJXKLTHlH7SeHc5g-ijPf7tJ7HUt_Vhap4Prpkkg2LsPoBeWo9sUVdu6P7H-mXzBRm6x_aayEa12m6KTVnuiu2uvAeBnj88zaJhKYem2XM5r85Qv-fG7kC0YzQsA25OclCs3wG59Hwi" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFkMFOwzAQRH_FWolj4rRpKari8AWIHHpHG9tN3DqNZW9LwtezEJAQB9jjamf2zVRJRxdIOKMAU8js0FqTLUsQBgmzN3cxdlKwKj4HBM3BKiA7kTzhDb-PdY8xWVJwpWP2ACJFraAnCmkvZQoYzzmasbW5HgcZsLPLs_yUoK7k4lJXKLTHlH7SeHc5g-ijPf7tJ7HUt_Vhap4Prpkkg2LsPoBeWo9sUVdu6P7H-mXzBRm6x_aayEa12m6KTVnuiu2uvAeBnj88zaJhKYem2XM5r85Qv-fG7kC0YzQsA25OclCs3wG59Hwi" height="1040" style=""></iframe>
 
 
 
