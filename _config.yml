@@ -76,7 +76,6 @@ content:
       description: >-
         What happens when someone connects to a Cru community anywhere in the
         world? Just watch and see.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ZK3-NsqpZWs&feature=applinks'
@@ -129,3 +128,6 @@ purpose:
   - type: external
     url: 'http://give.cru.org/0258043'
     label: Give a gift to make disciples
+  - type: external
+    url: 'https://spark.adobe.com/page/a3cv2TxPOTiPx/'
+    label: Become our Gospel Champion
