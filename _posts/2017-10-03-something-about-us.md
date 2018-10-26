@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-10-26T16:08:11.060Z'
-dateModified: '2018-10-26T16:08:10.407Z'
+datePublished: '2018-10-26T16:13:31.503Z'
+dateModified: '2018-10-26T16:13:29.148Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -39,9 +39,11 @@ I am in a **graduate studies** two-year program I began in August 2017 called [R
 
 ## Meet Dennis
 
-I am a dad to **five lively kids** who keep me active on athletic sidelines, and are wonderful objects of interest for my **photography** hobby. Parenting them is a gift and as they grow into young adulthood, relating with them grows even richer.
+The summer of 2018 marked my 35-year anniversary as a Cru staff member. It is my privilege to serve on our Global Digital Strategies team on which I focus on global branding and marketing.
 
-The summer of 2018 marks my **35-year anniversary as a Cru staff member**. I am passionate about the spiritual life and co-journeying with others who share the desire to know God intimately. I'm also passionate about how Christ is presented to the world, for how He's presented often determines whether or not one opens the door to listen to the transforming message of Christ. It is my privilege to serve on our **Global Digital Strategy** team on which I focus on **marketing** our Cru message and give attentiveness to how we are **experienced** as messengers.
+I am a dad to five lively kids who are wonderful objects of interest for my photography hobby. Parenting them is a gift and as they grow into young adulthood, relating with them grows even richer.
+
+I am passionate about the spiritual life and co-journeying with others who share the desire to know God intimately. I'm also passionate about how Christ is presented to the world, for how He's presented often determines whether or not one opens the door to listen to the transforming message of Christ.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyShSKM6sSrVVMjRQsgMAIgYEEg" height="10" style=""></iframe>
 
