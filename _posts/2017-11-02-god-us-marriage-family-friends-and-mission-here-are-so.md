@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-10-25T12:00:04.593Z'
-dateModified: '2018-10-25T12:00:02.376Z'
+datePublished: '2018-10-26T16:04:23.729Z'
+dateModified: '2018-10-26T16:04:22.786Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -19,4 +19,4 @@ _type: MediaObject
 
 ### There are two places for stories on this site. If you extend your ministry through us, we hope the stories under the menu "**Because of you ..."** will beckon you. Why? Because of **You**, of course.
 
-### If you dig us, and we hope you do, then click on "**Lisa's blog" **on the menu and that will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
+### To see more how God is revealing Himself and forming us through our family and life check out "**Lisa's blog" **on the menu and that will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
