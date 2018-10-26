@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T11:56:25.394Z'
-dateModified: '2018-02-17T11:56:24.970Z'
+datePublished: '2018-10-26T16:08:11.060Z'
+dateModified: '2018-10-26T16:08:10.407Z'
 description: We are so glad you clicked on over. Here’s a small window into who we are...
 via: {}
 sourcePath: _posts/2017-10-03-something-about-us.md
@@ -26,13 +26,12 @@ We are so glad you clicked on over. Here's a small window into who we are...
 
 ## Meet Lisa
 
-I am a mom to **five mostly fabulous kids** ranging from 14-22 years of age. For 13 of my 22 years of parenting, I was privileged to home educate our kids, some hours with much joy and delight...others through gnashing of teeth. We bathed together in the deep waters of spiritual formation. I think especially me. That was fertile ground for the passion God has deposited within me for spiritual formation.
+The summer of 2017 marked my 25-year anniversary as a Cru staff member. I currently serve with the Digital Strategies team in the area of Spiritual Formation.
 
-**I'm most alive** when I'm journeying with others on their road of personal transformation as well as when others join me in mine. Fourteen years ago, **I participated in my first School of Spiritual Direction** through Larry Crabb's [New Way Ministries][0] as a personal development pursuit. That week rocked my world in the best way. I caught a vision of God, myself, and others I'd never seen before, and a passion grew within me to share this vision and walk alongside others in their spiritual journeys. **I acquired my Spiritual Direction certificate in the summer of 2016**, and find incredible joy in journeying with Cru staff into the heart of God.
+I am a wife, a mom to five wonderful kids whom I love parenting, a missionary, a spiritual director, and an author. Growing up in a Mormon family in Utah and coming to the Biblical Jesus in college has birthed a passion within me to possess good theology. Because God brought such a radical transformation in my life, I have a passion for journeying alongside others on their road of spiritual transformation.
 
-The summer of 2017 marked my **25-year anniversary as a Cru staff member**. I currently serve with the Digital Strategies team in the area of Spiritual Formation.
-
-I am in a **graduate studies** two-year program I began in August 2017 called [Renovare Institute for Spiritual Formation][1].
+I am in a **graduate studies** two-year program I began in August 2017 called [Renovare Institute for Spiritual Formation][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd8a4779-21b5-4c84-936b-34b31479b283.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyShSKM6sSrVVMjRQsgMAIgYEEg" height="10" style=""></iframe>
 
@@ -46,8 +45,7 @@ The summer of 2018 marks my **35-year anniversary as a Cru staff member**. I am 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyShSKM6sSrVVMjRQsgMAIgYEEg" height="10" style=""></iframe>
 
-[Give to make disciples][2]
+[Give to make disciples][1]
 
-[0]: http://www.newwayministries.org/ "New Way Ministries"
-[1]: https://renovare.org/institute/overview "Renovare Institute"
-[2]: https://give.cru.org/0258043
+[0]: https://renovare.org/institute/overview "Renovare Institute"
+[1]: https://give.cru.org/0258043
