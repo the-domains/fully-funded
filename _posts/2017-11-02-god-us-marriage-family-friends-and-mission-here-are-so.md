@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-10-26T16:15:29.990Z'
-dateModified: '2018-10-26T16:15:29.020Z'
+datePublished: '2018-10-26T16:18:21.476Z'
+dateModified: '2018-10-26T16:18:20.901Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -17,6 +17,9 @@ _type: Article
 ---
 # We are glad you are here.
 
-### There are two places for stories on this site. If you extend your ministry through us, we hope the stories under the menu "**Because of you ..."** will beckon you. Why? Because of **You**, of course.
+### There are two places for stories on this site. If you extend your ministry through us, we hope the stories under the menu "**[Because of you][0] ..."** will beckon you. Why? Because of **You**, of course.
 
-### To see more how God is revealing Himself and forming us through our family and life check out "**Lisa's blog" **on the menu and that will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
+### To see more how God is revealing Himself and forming us through our family and life check out "**[Lisa's blog][1]" **on the menu and that will keep you up to date with us. There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
+
+[0]: https://thegrid.ai/mission-59281/
+[1]: https://thegrid.ai/family-82471/
