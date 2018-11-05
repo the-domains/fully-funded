@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-05T18:28:30.552Z'
-dateModified: '2018-11-05T18:28:27.725Z'
+datePublished: '2018-11-05T18:30:05.578Z'
+dateModified: '2018-11-05T18:30:03.753Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -19,7 +19,7 @@ _type: Article
 
 ### There are two places for stories on this site. If you extend your ministry through us, we hope the stories under the menu "**[Because of you][0] ..."** will beckon you. Why? Because of **You**, of course. We report ways in which your prayers and financial resources are coming alongside others on their spiritual journeys and offering them next steps in knowing and growing with Jesus.
 
-### To see more how God is revealing Himself and forming us through our family and life check out "**[Lisa's blog][1]" **on the menu and that will keep you up to date with us. 
+### To see more how God is revealing Himself and forming us through our family and life check out "**[Lisa's blog][1]" **on the menu and that will keep you up to date with us.
 
 ### However, more than following us, what if you wanted to follow Jesus? He is knowable and invites you to consider His offer of peace. This simple guide called "The Four" explains how you can begin not a religion, but a relationship with the God of all creation.
 
