@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-05T18:42:58.615Z'
-dateModified: '2018-11-05T18:42:57.816Z'
+datePublished: '2018-11-05T18:43:53.833Z'
+dateModified: '2018-11-05T18:43:53.055Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -23,7 +23,7 @@ _type: Article
 
 ### However, more than following us, what if you wanted to follow Jesus? He is knowable and invites you to consider His offer of peace. This simple guide called "The Four" explains how you can begin not a religion, but a relationship with the God of all creation.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljrEOwiAURXe_4slO2Q10MEHdTIx-AOUhxba8BlB_X4hurjf3nBy55Rz2zocI15OGw_l2AUvogPN-IzG8IKBiU6T3kVAvg0MGaIrhA9GkWBndnZ7pt80mesVcZL0UFa2CbFNYC-RkFRtLWfNOiCbzhJ2lRbhm7B65Ed9vhVqSjvgf9AGV4jbB" height="700" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljrEOwiAURXe_4slO2Q10MEHdTIx-AOUhxba8BlB_X4hurjf3nBy55Rz2zocI15OGw_l2AUvogPN-IzG8IKBiU6T3kVAvg0MGaIrhA9GkWBndnZ7pt80mesVcZL0UFa2CbFNYC-RkFRtLWfNOiCbzhJ2lRbhm7B65Ed9vhVqSjvgf9AGV4jbB" height="900" style=""></iframe>
 
 ### There is more to explore, and we hope you do. Out of all the places on the web you could be right now you are here, and we are grateful.
 
