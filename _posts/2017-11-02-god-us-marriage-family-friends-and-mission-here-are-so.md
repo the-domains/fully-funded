@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-05T18:38:09.273Z'
-dateModified: '2018-11-05T18:38:08.688Z'
+datePublished: '2018-11-05T18:39:37.725Z'
+dateModified: '2018-11-05T18:39:36.807Z'
 via: {}
 description: ''
 title: We are glad you are here.
@@ -22,6 +22,8 @@ _type: Article
 ### To see more how God is revealing Himself and forming us through our family and life check out "**[Lisa's blog][1]" **on the menu and that will keep you up to date with us.
 
 ### However, more than following us, what if you wanted to follow Jesus? He is knowable and invites you to consider His offer of peace. This simple guide called "The Four" explains how you can begin not a religion, but a relationship with the God of all creation.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljrEOwiAURXe_4slO2Q10MEHdTIx-AOUhxba8BlB_X4hurjf3nBy55Rz2zocI15OGw_l2AUvogPN-IzG8IKBiU6T3kVAvg0MGaIrhA9GkWBndnZ7pt80mesVcZL0UFa2CbFNYC-RkFRtLWfNOiCbzhJ2lRbhm7B65Ed9vhVqSjvgf9AGV4jbB" height="244" style=""></iframe>
 
     <!-- Begin THE FOUR code -->
     <div id="knowGodEmbed" data-book="thefour" data-lang="en"></div>
