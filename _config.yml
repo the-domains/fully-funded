@@ -48,7 +48,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
 title: Brockmans
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a62123f2-38e1-4c1b-a5de-523ceec96b04.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a62123f2-38e1-4c1b-a5de-523ceec96b04.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   We come alongside people in the highs and lows in their spiritual journeys and
   offer them next steps in knowing and growing with Jesus.
