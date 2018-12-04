@@ -47,7 +47,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd5766-f389-459b-92cc-a359e7df6d7d.png
-title: Brockmans
+title: Brockmans with Cru
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
